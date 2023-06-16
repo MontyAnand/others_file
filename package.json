@@ -11,8 +11,6 @@
     "express": "^4.18.2",
     "git": "^0.1.5",
     "install": "^0.13.0",
-    "mongoose": "^7.3.0",
-    "nodemon": "^2.0.22",
     "npm-git": "^0.1.29",
     "npm-git-install": "^0.3.0"
   }
